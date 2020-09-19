@@ -1,0 +1,13 @@
+.title {
+    margin-bottom: 10px !important;
+}
+.carousel {
+    /* display: none; */
+}
+.hide {
+    display: none;
+}
+
+.slider-control {
+    display: flex;
+}
